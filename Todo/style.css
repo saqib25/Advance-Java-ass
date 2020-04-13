@@ -1,0 +1,23 @@
+.btn-sm{
+    cursor: pointer;
+}
+
+body{
+    background: #000000;
+}
+ul li{
+    background: none;
+    outline: none;
+    border: none;
+}
+/* ============ */
+
+@media only screen and (max-width: 768px) {
+     h1{
+         text-align: center;
+     }
+     #tbtn{
+         margin-top: 5px;
+         margin-left:185px;
+     }
+  }
